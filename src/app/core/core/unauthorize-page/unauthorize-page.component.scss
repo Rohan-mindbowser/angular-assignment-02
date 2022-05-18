@@ -1,0 +1,25 @@
+
+.header h3{
+    text-transform: uppercase;
+    color: white;
+}
+.main-container{
+    background-color: #d0c9de;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.main-container img{
+    width: 35%;
+}
+.btn{
+    background-image: linear-gradient(to right, #8360c3, #2ebf91);
+    color: rgb(255, 255, 255);
+    transition: 0.5s all ease;
+}
+.btn:hover{
+    letter-spacing: 1px;
+}

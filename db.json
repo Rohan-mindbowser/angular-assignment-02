@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "productid": "87rtu7779",
+      "name": "SONY tv",
+      "category": "Tv",
+      "price": "70000",
+      "serialnumber": "asdas3556rt",
+      "releasedate": "2022-04-08",
+      "stockunit": "5",
+      "description": "SONY tv",
+      "id": 14
+    },
+    {
+      "productid": "rrt6788",
+      "name": "Samsung s1",
+      "category": "Phone",
+      "price": "35000",
+      "serialnumber": "lkiut5678",
+      "releasedate": "2022-04-11",
+      "stockunit": "2",
+      "description": "Samsung s1 available",
+      "id": 16
+    },
+    {
+      "productid": "fgf908",
+      "name": "oppo 1",
+      "category": "Phone",
+      "price": "45000",
+      "serialnumber": "asd56mm",
+      "releasedate": "2022-05-05",
+      "stockunit": "12",
+      "description": "fff",
+      "id": 18
+    },
+    {
+      "productid": "asdapoii",
+      "name": "lenovo s",
+      "category": "Laptop",
+      "price": "45000",
+      "serialnumber": "456sdffg",
+      "releasedate": "2022-05-11",
+      "stockunit": "6",
+      "description": "yyy",
+      "id": 19
+    },
+    {
+      "productid": "poi9765",
+      "name": "samsung tv",
+      "category": "Tv",
+      "price": "60000",
+      "serialnumber": "poi798",
+      "releasedate": "2022-05-12",
+      "stockunit": "2",
+      "description": "rrr",
+      "id": 20
+    },
+    {
+      "productid": "fgh57888",
+      "name": "Mi 11",
+      "category": "Phone",
+      "price": "20000",
+      "serialnumber": "asddagg6kklll",
+      "releasedate": "2022-05-12",
+      "stockunit": "20",
+      "description": "yes",
+      "id": 21
+    },
+    {
+      "productid": "mmnnbb646543",
+      "name": "real me 9",
+      "category": "Phone",
+      "price": "30000",
+      "serialnumber": "sdg9978967as",
+      "releasedate": "2022-05-05",
+      "stockunit": "10",
+      "description": "yytt",
+      "id": 22
+    },
+    {
+      "productid": "lk98723ggg",
+      "name": "Lenove thinkpad",
+      "category": "Laptop",
+      "price": "45000",
+      "serialnumber": "asd0099988s",
+      "releasedate": "2022-02-15",
+      "stockunit": "2",
+      "description": "available",
+      "id": 23
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "email": "r@gmail.com",
+      "password": "rohan12@n"
+    },
+    {
+      "id": 2,
+      "email": "r@gmail.com",
+      "password": "rohan12@n"
+    },
+    {
+      "email": "sid@gmail.com",
+      "password": "sid12@n",
+      "type": "user",
+      "id": 3
+    },
+    {
+      "email": "raj@gmail.com",
+      "password": "raj12@n",
+      "type": "admin",
+      "id": 4
+    }
+  ]
+}
